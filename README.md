@@ -3,6 +3,8 @@
 Tells whether a track is **Brazilian Phonk** and tags its micro-styles: runs locally on CPU, in a second or two per track.
 Based on [EfficientAT](https://github.com/fschmid56/EfficientAT) (`mn10_as`).
 
+**Try it in your browser:** <https://nemorasonar.vercel.app>
+
 For each track the model returns:
 
 | Output | Meaning |
